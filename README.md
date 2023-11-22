@@ -8,7 +8,7 @@ All code of HTDScripts © 2023-present by HTD02 is licensed under GPL-3.0
 
 All non code assets of HTDScripts © 2023-present by HTD02 are licensed under CC-BY-SA-4.0
 
-`SPDX-License-Identifier: GPL-3.0 AND CC-BY-SA-4.0`
+<!-- SPDX-License-Identifier: GPL-3.0-or-later AND CC-BY-SA-4.0 -->
 
 ## [GPL-3.0](LICENSE.GPL-3.0)
 
