@@ -6,9 +6,9 @@ Various scripts
 
 All code of HTDScripts © 2023-present by HTD02 is licensed under GPL-3.0
 
-All non code assets of HTDScripts © 2023-present by HTD02 are licensed under CC-BY-SA-4.0
+All non code assets of HTDScripts © 2023-present by HTD02 are licensed under CC-BY-4.0
 
-<!-- SPDX-License-Identifier: GPL-3.0-or-later AND CC-BY-SA-4.0 -->
+<!-- SPDX-License-Identifier: GPL-3.0-or-later AND CC-BY-4.0 -->
 
 ## [GPL-3.0](LICENSE.GPL-3.0)
 
@@ -24,7 +24,7 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program.
 
-## [CC-BY-SA-4.0](LICENSE.CC-BY-SA-4.0)
+## [CC-BY-SA-4.0](LICENSE.CC-BY-4.0)
 
 You are free to:
 
@@ -35,7 +35,6 @@ You are free to:
 Under the following terms:
 
     Attribution - You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-    ShareAlike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
     No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 Notices:
